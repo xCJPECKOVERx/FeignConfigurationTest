@@ -22,7 +22,6 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 	
-	
 //	@Bean
 //	@ConfigurationProperties(prefix = "security.oauth2.client")
 //	public ClientCredentialsResourceDetails clientCredentialsResourceDetails() {
