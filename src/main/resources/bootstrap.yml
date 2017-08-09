@@ -1,0 +1,6 @@
+test-client:
+  ribbon:
+    listOfServers: http://localhost:6000
+    connectionTimeout: 5000
+    readTimeout: 5000
+    isSecure: false

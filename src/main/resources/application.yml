@@ -1,0 +1,8 @@
+security:
+  oauth2:
+    client:
+      client-id: ClientId
+      client-secret: ClientSecret
+      accessTokenUri: http://localhost:5000/uaa/oauth/token
+      grant-type: client_credentials
+      scope: system
